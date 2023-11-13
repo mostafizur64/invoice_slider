@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mySwiper .swiper-slide.active-slide {
+  border: 2px solid red;
+  border-radius: 4%; /* Add your desired border style */
+}
