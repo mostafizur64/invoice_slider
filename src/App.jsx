@@ -81,7 +81,7 @@ function App() {
             <div>
               <button onClick={closePreview}>Close Preview</button>
               {renderSelectedComponent()}
-            </div>
+            </div> 
           )}
         </div>
       </div>
